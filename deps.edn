@@ -1,0 +1,6 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        metosin/muuntaja {:mvn/version "0.6.8"}
+        metosin/reitit {:mvn/version "0.6.0"}
+        metosin/ring-http-response {:mvn/version "0.9.3"}
+        ring/ring {:mvn/version "1.9.6"}}}
